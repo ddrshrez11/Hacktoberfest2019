@@ -39,7 +39,7 @@
     }
 
 ]
-=======
+====
 [{
         "title": "git init",
         "description": "The git init command creates a new Git repository. It converts our current working folder to a Git repository or initialize a new repository."
